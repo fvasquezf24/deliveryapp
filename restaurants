@@ -1,0 +1,58 @@
+{
+  "restaurant":[
+    {
+      "id":1,
+      "name":"McDonald's",
+      "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwBVB7cC0qx5mzb9oUNqj2WgS01wt0zDZTg&s",
+      "img":"Rosales",
+      "rate":4.8,
+      "prod":[
+        {
+          "id": 1,
+          "name": "Big Mac",
+          "img":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXxAHcZ/200/200/original?country=pe",
+          "price": 2.0
+        },
+        {
+          "id": 2,
+          "name": "Cuarto de Libra con Queso",
+          "img":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXFprE1/200/200/original?country=pe",
+          "price": 3.0
+        },
+        {
+          "id": 3,
+          "name": "Sándwich McPollo",
+          "img":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kaX5lPG7/200/200/original?country=pe",
+          "price": 4.0
+        }
+      ]
+    },
+    {
+      "id":1,
+      "name":"McDonald's",
+      "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwBVB7cC0qx5mzb9oUNqj2WgS01wt0zDZTg&s",
+      "img":"Rosales",
+      "rate":4.8,
+      "prod":[
+        {
+          "id": 1,
+          "name": "Big Mac",
+          "img":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXxAHcZ/200/200/original?country=pe",
+          "price": 2.0
+        },
+        {
+          "id": 2,
+          "name": "Cuarto de Libra con Queso",
+          "img":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXFprE1/200/200/original?country=pe",
+          "price": 3.0
+        },
+        {
+          "id": 3,
+          "name": "Sándwich McPollo",
+          "img":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kaX5lPG7/200/200/original?country=pe",
+          "price": 4.0
+        }
+      ]
+    }
+  ]
+}
