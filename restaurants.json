@@ -1,5 +1,4 @@
-{
-  "restaurant":[
+[
     {
       "id":1,
       "name":"McDonald's",
@@ -55,4 +54,3 @@
       ]
     }
   ]
-}
